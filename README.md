@@ -31,12 +31,19 @@
 
 ### For SheehanLM-42M: 
 V   = 16,384
+
 C   = 512
+
 L   = 12
+
 H   = 8
+
 Hkv = 2
+
 Dh  = 64
+
 F   = 1,408
+
 T   = 1,024 initially
 
 
