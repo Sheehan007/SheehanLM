@@ -7,7 +7,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# File-management rules 
+###### File-management rules 
 1. src/ contains reusable implementation
 2. scripts/ contains thin commands that call functionality from src/
 3. configs/ contains choices and hyperparameters, not Python code
